@@ -6,6 +6,8 @@
 </p>
 <h3 align="center">IONICFIREBASEAPP</h3>
 
+<img src="https://res.cloudinary.com/dlx35qw0l/image/upload/v1574401451/Codecanyon/Black_Friday_Banner_1.png"/>
+
  <a href="#"> <h3 align="center">DOWNLOAD REACT NATIVE CHAT APP (COMMING SOON)</h3> </a>
 
 <p align="center">
